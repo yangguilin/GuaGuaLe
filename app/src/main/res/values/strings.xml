@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">小猪刮刮乐</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="button_play_again">再刮一次</string>
+    <string name="button_quit">不玩了</string>
+    <string name="textview_play_rule_title">独家秘方：</string>
+    <string name="textview_play_rule">每天整点会有大量红包现身！\n这么大的事儿，我怎么会告诉你呢~</string>
+    <string name="string_lose">没有中奖</string>
+    <string name="string_win">恭喜中奖</string>
+    <string name="string_win_msg">恭喜您刮中%1$d元红包</string>
+    <string name="string_get_another_card">正在获取下一张刮刮卡</string>
+    <string name="string_words_on_coating">请刮开涂层卡</string>
+
+</resources>
